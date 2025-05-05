@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mujahidur Rahman Muhin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Mujahidur Rahman Muhin.</h1>
+<h3 align="center"> I am not a professional developer.But,I love to learn new things.I am from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujahidurrahmanmuhin&label=Profile%20views&color=0e75b6&style=flat" alt="mujahidurrahmanmuhin" /> </p>
 
